@@ -1,4 +1,3 @@
-```markdown
 # QuickBlox Real-time Anonymous Polling System
 
 ## Overview
@@ -77,9 +76,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Flask==2.2.2
 Flask-CORS==3.0.10
 ```
-
-### Summary
-- The `README.md` provides a comprehensive guide for setting up and using the project, including features, technologies, and troubleshooting tips.
-- The `requirements.txt` lists the necessary Python packages to install for the back-end.
-
-Feel free to modify any part of these files to better fit your project or preferences! If you have any more questions or need further assistance, just let me know!
