@@ -69,7 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - [QuickBlox](https://quickblox.com/) for providing a powerful communication platform.
 - Flask team for their excellent web framework.
-```
 
 ### **requirements.txt**
 ```
