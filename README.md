@@ -1,6 +1,3 @@
-Sure! Here’s a detailed `README.md` file and a `requirements.txt` file for your QuickBlox real-time anonymous polling system project.
-
-### **README.md**
 ```markdown
 # QuickBlox Real-time Anonymous Polling System
 
