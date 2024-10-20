@@ -1,4 +1,4 @@
-# QuickBlox Real-time Anonymous Polling System
+# QuickBlox integrated Real-time Anonymous Polling System
 
 ## Overview
 This project is a simple real-time polling system that allows users to participate in anonymous polls via a chat interface using QuickBlox for real-time communication.
